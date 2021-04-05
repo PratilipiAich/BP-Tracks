@@ -132,7 +132,7 @@ let All_song = [
   {
 	name: "Ice Cream",
 	path: "http://docs.google.com/uc?export=open&id=1sR_Ui74voYsHA1UfanQ67IcW0ZREsdWq",
-	img: "./assets/sour.jpg",
+	img: "./assets/ice.jpg",
 	singer: "Selena Gomez (28 August, 2020)"
   },
   {
@@ -157,6 +157,12 @@ let All_song = [
 	name: "Love To Hate Me",
 	path: "http://docs.google.com/uc?export=open&id=1sCCGOYiojbjPZn5evMeYjimd45nj2Y_A",
 	img: "./assets/love.jpg",
+	singer: "02 October, 2020"
+  },
+  {
+	name: "You Never Know",
+	path: "http://docs.google.com/uc?export=open&id=1-LQSGIYYxqbZOJoiJ3vI3dH6g8nMoaCi",
+	img: "./assets/never.jpg",
 	singer: "02 October, 2020"
   },
   {
