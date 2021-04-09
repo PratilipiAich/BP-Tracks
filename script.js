@@ -172,6 +172,13 @@ let All_song = [
 	singer: "Cardi B (02 October, 2020)"
   },
   {
+	name: "Ready For Love",
+	path: "http://docs.google.com/uc?export=open&id=10Zo4mP5TaphJvVFgub_TovgzpRRhhuL0",
+	img: "./assets/ready.jpg",
+	singer: "02 October, 2021"
+  },
+
+  {
 	name: "Gone",
 	path: "http://docs.google.com/uc?export=open&id=1-6DqkR01S4AnpTBD19W_fwE8nhPVHnvt",
 	img: "./assets/gone.jpg",
